@@ -9,7 +9,7 @@ edition = "2021"
 path = "src/lib.rs"
 
 [[bin]]
-path = "src/lib.rs"
+path = "src/main.rs"
 name = "zero2prod"
 
 [dependencies]
